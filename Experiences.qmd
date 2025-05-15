@@ -1,0 +1,21 @@
+---
+title: "Experiences"
+---
+
+This page contain some og my experiences that I have done in the past. I have done a few projects and internships that have helped me to grow and learn more about the field of technology. I am always looking for new opportunities to learn and grow, and I am excited to see what the future holds for me.
+
+#### Latest SIT Projects
+1. Stock analysis using classic Machine Learning Algorithms.<br> 
+   I created a stock analysis system using classic machine learning algorithms. The system is able to predict the stock prices of various companies and provide insights into the stock market. I learned a lot about machine learning and how to apply it to real-world problems. I am proud to have been part of the team that created this system.
+
+#### FYP
+
+I did my FYP(Final-Year Project) with Bosch while I was still studying in SP(Singapore Polytechnic). My team and I created a Dealer Locator integrated with a Google Map API and stock management system for store owner. The project was a success and deployed with Bosch's systems. I am proud to have been part of the project working with a real-life client.
+
+#### Internship
+
+1.  Expo Singapore <br> 
+I worked with expo through Covid-19 and was part of the team that helped to set up the Expo for online events. I was part of the team that helped to set up the online events and was responsible for ensuring that everything ran smoothly. I learned a lot about event management and how to work under pressure. I created the main website used and also liased with many other vendors to create virtual events for Expo to continue function thourgh the Pandemic. I am proud to have been part of the team that helped to keep Expo running during such a difficult time.
+
+2.  OCBC <br> 
+I worked with OCBC for 3 Months as a UAT Tester. I was part of the team that helped to test the new Cloud ERP system and ensure that it was working properly. I learned to work in a major team and also learned many things on the finance side of the world. My team handled the accounts payables portion of the ERP system.

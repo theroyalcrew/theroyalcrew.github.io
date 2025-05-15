@@ -10,7 +10,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Experiences.qmd
 
 format:
   html:
