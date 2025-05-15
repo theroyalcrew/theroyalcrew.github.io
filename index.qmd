@@ -9,17 +9,3 @@ I am Royston a student at Singapore Institute of Technology (SIT) pursuing a deg
 ## **About me** <br>
 
 I am an enthusiastic and dedicated individual with a passion for technology and innovation. I am currently pursuing my studies in the field of Artificial Intelligence and am eager to learn and grow in this exciting domain. I am looking forward to learning more about this field as I explore the different kind of work I could potentially do after Graduation. I am currently exploring the idea of breaking into finance as I used to work at OCBC as a UAT Tester.
-
-## **Interests** <br>
-
-#### Music<br>
-
-Back in Poly I used to play in Garage Band which is a cover band CCA where I played as a guitarist. I have done a number of performances and I have also done a few recordings. I am currently casually playing guitar and I am looking to get into sound mixing and recording as I am interested in the technical side of music. <br> {{< video https://youtu.be/bHwN_Fkw8Ck?si=T5itN8PKJAVGffE-&t=690 width="600" height="400" >}}
-
-#### Gaming<br>
-
-I am a casual gamer and I play games like Valorant, Dota, Minecraft. I am also interested in game development and I have dabbled in Unity and Unreal Engine. I am looking to learn more about game development as I find it fascinating how games are made and the technology behind it. I have friends that have gone this path and I have learned alot from their experiences on the actual industry.
-
-#### Hobbies <br>
-
-Cooking - Japanese styled food <br> Cycling - Currently using a carbon fiber Bike <br> Badminton - Havent bought a racket yet <br>

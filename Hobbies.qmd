@@ -1,0 +1,14 @@
+---
+title: "Hobbies"
+---
+#### Music<br>
+
+Back in Poly I used to play in Garage Band which is a cover band CCA where I played as a guitarist. I have done a number of performances and I have also done a few recordings. I am currently casually playing guitar and I am looking to get into sound mixing and recording as I am interested in the technical side of music. <br> {{< video https://youtu.be/bHwN_Fkw8Ck?si=T5itN8PKJAVGffE-&t=690 width="600" height="400" >}}
+
+#### Gaming<br>
+
+I am a casual gamer and I play games like Valorant, Dota, Minecraft. I am also interested in game development and I have dabbled in Unity and Unreal Engine. I am looking to learn more about game development as I find it fascinating how games are made and the technology behind it. I have friends that have gone this path and I have learned alot from their experiences on the actual industry.
+
+#### Hobbies <br>
+
+Cooking - Japanese styled food <br> Cycling - Currently using a carbon fiber Bike <br> Badminton - Havent bought a racket yet <br>
