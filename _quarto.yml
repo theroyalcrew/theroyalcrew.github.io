@@ -11,6 +11,7 @@ website:
       - href: index.qmd
         text: Home
       - Experiences.qmd
+      - Reflection.qmd
 
 format:
   html:

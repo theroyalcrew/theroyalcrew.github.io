@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Royston’s Quarto Introduction Website",
     "section": "",
-    "text": "I am Royston a student at Singapore Institute of Technology (SIT) pursuing a degree in Artificial Intelligence.  ##About me  I am an enthusiastic and dedicated individual with a passion for technology and innovation. I am currently pursuing my studies in the field of Artificial Intelligence and am eager to learn and grow in this exciting domain. I am looking forward to learning more about this field as I explore the different kind of work I could potentially do after Graduation. I am currently exploring the idea of breaking into finance as I used to work at OCBC as a UAT Tester."
+    "text": "I am Royston a student at Singapore Institute of Technology (SIT) pursuing a degree in Artificial Intelligence."
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "index.html#background",
     "title": "Royston’s Quarto Introduction Website",
     "section": "",
-    "text": "I am Royston a student at Singapore Institute of Technology (SIT) pursuing a degree in Artificial Intelligence.  ##About me  I am an enthusiastic and dedicated individual with a passion for technology and innovation. I am currently pursuing my studies in the field of Artificial Intelligence and am eager to learn and grow in this exciting domain. I am looking forward to learning more about this field as I explore the different kind of work I could potentially do after Graduation. I am currently exploring the idea of breaking into finance as I used to work at OCBC as a UAT Tester."
+    "text": "I am Royston a student at Singapore Institute of Technology (SIT) pursuing a degree in Artificial Intelligence."
   },
   {
     "objectID": "index.html#experiences",
@@ -39,14 +39,14 @@
     "href": "index.html#interests",
     "title": "Royston’s Quarto Introduction Website",
     "section": "Interests ",
-    "text": "Interests \n\nMusic\nBack in Poly I used to play in Garage Band which is a cover band CCA where I played as a guitarist. I have done a number of performances and I have also done a few recordings. I am currently casually playing guitar and I am looking to get into sound mixing and recording as I am interested in the technical side of music.   \n\n\nGaming\nI am a casual gamer and I play games like Valorant, Dota, Minecraft. I am also interested in game development and I have dabbled in Unity and Unreal Engine. I am looking to learn more about game development as I find it fascinating how games are made and the technology behind it. I have friends that have gone this path and I have learned alot from their experiences on the actual industry.\n\n\nHobbies \nCooking - Japanese styled food Cycling - Currently using a carbon fiber Bike Badminton - Havent bought a racket yet"
+    "text": "Interests \n\nMusic\nBack in Poly I used to play in Garage Band which is a cover band CCA where I played as a guitarist. I have done a number of performances and I have also done a few recordings. I am currently casually playing guitar and I am looking to get into sound mixing and recording as I am interested in the technical side of music.  \n\n\nGaming\nI am a casual gamer and I play games like Valorant, Dota, Minecraft. I am also interested in game development and I have dabbled in Unity and Unreal Engine. I am looking to learn more about game development as I find it fascinating how games are made and the technology behind it. I have friends that have gone this path and I have learned alot from their experiences on the actual industry.\n\n\nHobbies \nCooking - Japanese styled food  Cycling - Currently using a carbon fiber Bike  Badminton - Havent bought a racket yet"
   },
   {
     "objectID": "Experiences.html",
     "href": "Experiences.html",
     "title": "Experiences",
     "section": "",
-    "text": "This page contain some og my experiences that I have done in the past. I have done a few projects and internships that have helped me to grow and learn more about the field of technology. I am always looking for new opportunities to learn and grow, and I am excited to see what the future holds for me."
+    "text": "This page contain some og my experiences that I have done in the past. I have done a few projects and internships that have helped me to grow and learn more about the field of technology. I am always looking for new opportunities to learn and grow, and I am excited to see what the future holds for me.\n\nLatest SIT Projects\n\nStock analysis using classic Machine Learning Algorithms. I created a stock analysis system using classic machine learning algorithms. The system is able to predict the stock prices of various companies and provide insights into the stock market. I learned a lot about machine learning and how to apply it to real-world problems. I am proud to have been part of the team that created this system.\n\n\n\n\nModels\nAccuracy\n\n\n\n\nShallow Neural Network\n0.8590\n\n\nLinear Regression\n0.9313\n\n\nXGBoost\n-0.6506\n\n\nSupport Vector Regression\n0.978\n\n\n\n\n\nFYP\nI did my FYP(Final-Year Project) with Bosch while I was still studying in SP(Singapore Polytechnic). My team and I created a Dealer Locator integrated with a Google Map API and stock management system for store owner. The project was a success and deployed with Bosch’s systems. I am proud to have been part of the project working with a real-life client.\n\n\nInternship\n\nExpo Singapore  I worked with expo through Covid-19 and was part of the team that helped to set up the Expo for online events. I was part of the team that helped to set up the online events and was responsible for ensuring that everything ran smoothly. I learned a lot about event management and how to work under pressure. I created the main website used and also liased with many other vendors to create virtual events for Expo to continue function thourgh the Pandemic. I am proud to have been part of the team that helped to keep Expo running during such a difficult time.\nOCBC  I worked with OCBC for 3 Months as a UAT Tester. I was part of the team that helped to test the new Cloud ERP system and ensure that it was working properly. I learned to work in a major team and also learned many things on the finance side of the world. My team handled the accounts payables portion of the ERP system."
   },
   {
     "objectID": "Experiences.html#experiences",
@@ -54,5 +54,47 @@
     "title": "Experiences",
     "section": "Experiences",
     "text": "Experiences\n\nFYP\nI did my FYP(Final-Year Project) with Bosch while I was still studying in SP(Singapore Polytechnic). My team and I created a Dealer Locator integrated with a Google Map API and stock management system for store owner. The project was a success and deployed with Bosch’s systems. I am proud to have been part of the project working with a real-life client.\n\n\nInternship\n\nExpo Singapore  I worked with expo through Covid-19 and was part of the team that helped to set up the Expo for online events. I was part of the team that helped to set up the online events and was responsible for ensuring that everything ran smoothly. I learned a lot about event management and how to work under pressure. I created the main website used and also liased with many other vendors to create virtual events for Expo to continue function thourgh the Pandemic. I am proud to have been part of the team that helped to keep Expo running during such a difficult time.\nOCBC  I worked with OCBC for 3 Months as a UAT Tester. I was part of the team that helped to test the new Cloud ERP system and ensure that it was working properly. I learned to work in a major team and also learned many things on the finance side of the world. My team handled the accounts payables portion of the ERP system."
+  },
+  {
+    "objectID": "index.html#i-am-royston-a-student-at-singapore-institute-of-technology-sit-pursuing-a-degree-in-artificial-intelligence.-profile-photo",
+    "href": "index.html#i-am-royston-a-student-at-singapore-institute-of-technology-sit-pursuing-a-degree-in-artificial-intelligence.-profile-photo",
+    "title": "Royston’s Quarto Introduction Website",
+    "section": "I am Royston a student at Singapore Institute of Technology (SIT) pursuing a degree in Artificial Intelligence.  ",
+    "text": "I am Royston a student at Singapore Institute of Technology (SIT) pursuing a degree in Artificial Intelligence."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Royston’s Quarto Introduction Website",
+    "section": "About me ",
+    "text": "About me \nI am an enthusiastic and dedicated individual with a passion for technology and innovation. I am currently pursuing my studies in the field of Artificial Intelligence and am eager to learn and grow in this exciting domain. I am looking forward to learning more about this field as I explore the different kind of work I could potentially do after Graduation. I am currently exploring the idea of breaking into finance as I used to work at OCBC as a UAT Tester."
+  },
+  {
+    "objectID": "Reflection.html",
+    "href": "Reflection.html",
+    "title": "Reflection",
+    "section": "",
+    "text": "Reflection on using Quanto with GenAI"
+  },
+  {
+    "objectID": "Reflection.html#genai-used",
+    "href": "Reflection.html#genai-used",
+    "title": "Reflection",
+    "section": "GenAI used ",
+    "text": "GenAI used \nChatGPT as I have apyed for it  Perplexity is something I intend to start using as well"
+  },
+  {
+    "objectID": "Reflection.html#what-i-learned",
+    "href": "Reflection.html#what-i-learned",
+    "title": "Reflection",
+    "section": "What I learned ",
+    "text": "What I learned \nIt is very benefitial at quickly grabbing information. I am able to quickly do searches for like shortcuts and systex for Quanto."
+  },
+  {
+    "objectID": "Reflection.html#what-i-feel-could-be-improved",
+    "href": "Reflection.html#what-i-feel-could-be-improved",
+    "title": "Reflection",
+    "section": "What I feel could be improved ",
+    "text": "What I feel could be improved \nI feel like it makes my research skills very lacking and its definatly something I could use AI to advance and not just hinder."
   }
 ]
