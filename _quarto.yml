@@ -3,8 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Week 2 AAI1001 Site"
+  favicon: Sources/favicon.jfif
   navbar:
+    logo: Sources/logo.jfif
     left:
       - href: index.qmd
         text: Home
@@ -13,10 +15,13 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - darkly
     css: styles.css
     toc: true
-
-
+    toc-depth: 3
+    toc-location: left
+    embed-resources: true
+    page-navigation: true
+    link-external-newwindow: true
+    number-sections: true
 
